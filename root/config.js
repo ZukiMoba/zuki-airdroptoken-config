@@ -1,4 +1,4 @@
 {
-  "end_waiting_claim": "Jan 25 2022 16:00:00 GMT",
-  "end_claim":         "Feb 15 2023 23:00:00 GMT"
+  "end_waiting_claim": "Apr 03 2021 03:00:00 GMT",
+  "end_claim":         "Apr 24 2022 03:00:00 GMT"
 }
